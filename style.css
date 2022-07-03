@@ -1,13 +1,23 @@
+*{
+    background-color: rgb(17, 141, 249);
+}
 #clockcontainer{
+   /* position: fixed; */
    position: relative;
+
+   top: 80px;
+   
+   
     margin: auto;
-    border: 2px solid red;
+    border:30px solid rgb(67, 58, 58);
+    border-radius: 200px;
     /* height: 40vw;
     width: 40vw; */
     height: 400px;
     width: 400px;
     background:  url(images/clock.png) no-repeat;
     background-size: 100%;
+    background-color: rebeccapurple;
 }
 
 
