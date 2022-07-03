@@ -1,6 +1,9 @@
 *{
     background-color: rgb(17, 141, 249);
 }
+i{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 #clockcontainer{
    /* position: fixed; */
    position: relative;
